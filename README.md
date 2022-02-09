@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/paezao/paezao/master/images/name.svg" alt="Marcelo Paez Sequeira" />
+<img src="./images/name.svg" alt="Marcelo Paez Sequeira" />
+
+<img src="./images/3dwelcome.gif"/>
 
 ## My name is Marcelo and I ❤️ Coding.
 
