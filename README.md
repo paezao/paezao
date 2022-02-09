@@ -32,3 +32,9 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=Kubernetes&logoColor=f1f1f1&style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/-Terraform-blueviolet?logo=Terraform&logoColor=f1f1f1&style=for-the-badge)
 ![Helm](https://img.shields.io/badge/-Helm-lightgrey?logo=Helm&logoColor=blue&style=for-the-badge)
+![Azure%20DevOps](https://img.shields.io/badge/-Azure%20DevOps-00aac6?logo=Azure%20DevOps&logoColor=white&style=for-the-badge)
+![Github%20Actions](https://img.shields.io/badge/-Github%20Actions-2e2e84?logo=GitHub%20Actions&logoColor=white&style=for-the-badge)
+
+### Blockchain
+
+![Ethereum](https://img.shields.io/badge/-Ethereum-555555?logo=Ethereum&logoColor=white&style=for-the-badge)
