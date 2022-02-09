@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/paezao/paezao/master/name.svg" alt="Marcelo Paez Sequeira" />
+<img src="https://raw.githubusercontent.com/paezao/paezao/master/images/name.svg" alt="Marcelo Paez Sequeira" />
 
 ## My name is Marcelo and I ❤️ Coding.
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-paez-sequeira/)](https://www.linkedin.com/in/marcelo-paez-sequeira/)
 
-### Tech I'm proficient in
+## Tech I'm proficient in
 
-#### Programming Languages
+### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=JavaScript&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-e8e9ec?logo=TypeScript&style=for-the-badge)
@@ -16,7 +16,7 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-dedede?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI%2BPHRpdGxlPmZpbGVfdHlwZV9saWdodF9zb2xpZGl0eTwvdGl0bGU%2BPHBhdGggZD0iTTIwLjQ3NywybC00LjUsOGgtOWw0LjUtOGg5IiBzdHlsZT0ib3BhY2l0eTowLjQ0OTk5OTk4ODA3OTA3MTA0O2lzb2xhdGlvbjppc29sYXRlIi8%2BPHBhdGggZGF0YS1uYW1lPSJTaGFwZSIgZD0iTTE1Ljk3NSwxMGg5bC00LjUtOGgtOVoiIHN0eWxlPSJvcGFjaXR5OjAuNjAwMDAwMDIzODQxODU3OTtpc29sYXRpb246aXNvbGF0ZSIvPjxwYXRoIGRhdGEtbmFtZT0iU2hhcGUiIGQ9Ik0xMS40NzcsMThsNC41LTgtNC41LTgtNC41LDhaIiBzdHlsZT0ib3BhY2l0eTowLjgwMDAwMDAxMTkyMDkyOTtpc29sYXRpb246aXNvbGF0ZSIvPjxwYXRoIGRhdGEtbmFtZT0iU2hhcGUiIGQ9Ik0xMS41MiwzMGw0LjUtOGg5bC00LjUsOGgtOSIgc3R5bGU9Im9wYWNpdHk6MC40NDk5OTk5ODgwNzkwNzEwNDtpc29sYXRpb246aXNvbGF0ZSIvPjxwYXRoIGRhdGEtbmFtZT0iU2hhcGUiIGQ9Ik0xNi4wMjIsMjJoLTlsNC41LDhoOVoiIHN0eWxlPSJvcGFjaXR5OjAuNjAwMDAwMDIzODQxODU3OTtpc29sYXRpb246aXNvbGF0ZSIvPjxwYXRoIGRhdGEtbmFtZT0iU2hhcGUiIGQ9Ik0yMC41MiwxNGwtNC41LDgsNC41LDgsNC41LThaIiBzdHlsZT0ib3BhY2l0eTowLjgwMDAwMDAxMTkyMDkyOTtpc29sYXRpb246aXNvbGF0ZSIvPjwvc3ZnPg%3D%3D&style=for-the-badge)
 
 
-#### Frameworks
+### Frameworks
 
 
 ![Ruby%20on%20Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-crimson?logo=Ruby%20on%20Rails&style=for-the-badge)
