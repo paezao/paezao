@@ -2,7 +2,8 @@
 
 <img src="./images/3dwelcome.gif"/>
 
-## My name is Marcelo and I ❤️ Coding.
+<h2>My name is Marcelo and I ❤️ Coding.</h2>
+<img align='right' src="./images/computer-ani.gif" width="200">
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-paez-sequeira/)](https://www.linkedin.com/in/marcelo-paez-sequeira/)
 
